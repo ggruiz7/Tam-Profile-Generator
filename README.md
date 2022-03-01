@@ -20,7 +20,7 @@ To use the README generator, you must install Node.js; Inquirer, and Jest npm pa
 ### Usage:
 
 View video for instructions of usage.
-![gif of Team-Profile-Generator](./gif/Team-Profile-Generator.gif)
+![gif of Team-Profile-Generator](./GIF/Team-Profile-Generator.gif)
 
 ### Features:
 
